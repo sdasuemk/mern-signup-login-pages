@@ -13,5 +13,13 @@
   },
   "author": "Soumya",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdasuemk/car-rental-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdasuemk/car-rental-app/issues"
+  },
+  "homepage": "https://github.com/sdasuemk/car-rental-app#readme",
   "description": ""
 }
