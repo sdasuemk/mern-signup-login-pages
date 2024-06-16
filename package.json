@@ -15,11 +15,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdasuemk/car-rental-app.git"
+    "url": "git+https://github.com/sdasuemk/mern-signup-login-pages.git"
   },
   "bugs": {
-    "url": "https://github.com/sdasuemk/car-rental-app/issues"
+    "url": "https://github.com/sdasuemk/mern-signup-login-pages/issues"
   },
-  "homepage": "https://github.com/sdasuemk/car-rental-app#readme",
+  "homepage": "https://github.com/sdasuemk/mern-signup-login-pages#readme",
   "description": ""
 }
